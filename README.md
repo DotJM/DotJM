@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DotJM&section=header&reversal=false&textBg=false&animation=fadeIn&descAlign=60)
 
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DotJM&layout=donut) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DotJM&show_icons=true)
+</p>
+
 <!--
 **DotJM/DotJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
