@@ -31,6 +31,13 @@
   <img src="https://skillicons.dev/icons?i=docker,git,arduino,selenium">
 </p>
 
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DotJM&show_icons=true">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotJM&layout=donut">
+</p>
+
 <!--
 **DotJM/DotJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
