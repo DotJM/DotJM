@@ -4,28 +4,31 @@
 
 <h5>&nbsp;&nbsp;👋 Hello! I am Web Engineer in South Korea. </h5>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DotJM&show_icons=true">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DotJM&layout=donut">
+## My Skils
+
+### Languages
+<p align="">
+  <img src="https://skillicons.dev/icons?i=py,c,java,dart">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" >&nbsp;
+
+### For Web
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,fastapi,flask,php,nginx,svelte,react,spring">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >&nbsp;
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" >&nbsp;
+
+### DB
+<p align="">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" >&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" >&nbsp;
+
+### For App
+<p align="">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter">
+</p>
+
+### ETC
+<p align="">
+  <img src="https://skillicons.dev/icons?i=docker,git,arduino,selenium">
 </p>
 
 <!--
