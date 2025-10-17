@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=DotJM&section=header&reversal=false&textBg=false&animation=fadeIn&descAlign=60">
 </p>
 
-<h5>&nbsp;&nbsp;👋 Hello! I am Web Engineer in South Korea. </h5>
+<h5>&nbsp;&nbsp;👋 Hello! I am Platform Developer / Security Researcher in South Korea. </h5>
 
 ## My Skils
 
